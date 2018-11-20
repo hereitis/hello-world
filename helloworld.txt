@@ -1,2 +1,3 @@
 hello world
 registering add into index
+recording status of commit index
